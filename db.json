@@ -1,0 +1,80 @@
+{
+
+        "Colecciones":[
+{
+    "id":"1",
+    "Titulos":"Aquaman",
+    "Precio":"15€",
+    "Tipo":"Comic",
+    "Autor":"Paul Norris, Mort Weisinger, Kurt Busiek y Jackson Guice",
+    "Dibujantes":"Paul Norris, Mort Weisinger, Kurt Busiek y Jackson Guice",
+    "Imagen":"../Imagenes/Colecciones/SuperHijosVol1.jpg"
+
+},{
+   "id":"2",
+    "Titulos":"Batman",
+    "Precio":"15€",
+    "Tipo":"Comic",
+    "Autor":"Bob Kane",
+    "Dibujantes":"Bob Kane, Bill Finger",
+    "Imagen":"../Imagenes/Colecciones/SuperHijosVol1.jpg"
+},{
+   "id":"3",
+    "Titulos":"Flash",
+    "Precio":"15€",
+    "Tipo":"Comic",
+    "Autor":"Gardner Fox y Harry Lampert",
+    "Dibujantes":"Gardner Fox y Harry Lampert",
+    "Imagen":"../Imagenes/Colecciones/SuperHijosVol1.jpg"
+},{
+   "id":"4",
+    "Titulos":"Green Lantern",
+    "Precio":"15€",
+    "Tipo":"Comic",
+    "Autor":"Gardner Fox y Harry Lampert",
+    "Dibujantes":"Gardner Fox y Harry Lampert",
+    "Imagen":"../Imagenes/Colecciones/SuperHijosVol1.jpg"
+},{
+   "id":"5",
+    "Titulos":"Injustice: Año cero",
+    "Precio":"15€",
+    "Tipo":"Comic",
+    "Autor":"Gardner Fox y Harry Lampert",
+    "Dibujantes":"Gardner Fox y Harry Lampert",
+    "Imagen":"../Imagenes/Colecciones/SuperHijosVol1.jpg"
+},{
+   "id":"6",
+    "Titulos":"¡Shazam!",
+    "Precio":"15€",
+    "Tipo":"Comic",
+    "Autor":"Gardner Fox y Harry Lampert",
+    "Dibujantes":"Gardner Fox y Harry Lampert",
+    "Imagen":"../Imagenes/Colecciones/SuperHijosVol1.jpg"
+},{
+   "id":"7",
+    "Titulos":"Superman",
+    "Precio":"15€",
+    "Tipo":"Comic",
+    "Autor":"Gardner Fox y Harry Lampert",
+    "Dibujantes":"Gardner Fox y Harry Lampert",
+    "Imagen":"../Imagenes/Colecciones/SuperHijosVol1.jpg"
+},{
+   "id":"8",
+    "Titulos":"Wonder Woman",
+    "Precio":"15€",
+    "Tipo":"Comic",
+    "Autor":"Gardner Fox y Harry Lampert",
+    "Dibujantes":"Gardner Fox y Harry Lampert",
+    "Imagen":"../Imagenes/Colecciones/SuperHijosVol1.jpg"
+},{
+   "id":"9",
+    "Titulos":"Constantine",
+    "Precio":"15€",
+    "Tipo":"Comic",
+    "Autor":"Gardner Fox y Harry Lampert",
+    "Dibujantes":"Gardner Fox y Harry Lampert",
+    "Imagen":"../Imagenes/Colecciones/SuperHijosVol1.jpg"
+}
+
+]
+}

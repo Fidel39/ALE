@@ -8,7 +8,7 @@
     "Tipo":"Comic",
     "Autor":"Paul Norris, Mort Weisinger, Kurt Busiek y Jackson Guice",
     "Dibujantes":"Paul Norris, Mort Weisinger, Kurt Busiek y Jackson Guice",
-    "Imagen":"../../img/img_dc/1.jpg"
+    "Imagen":"../../img/img_dc/0.jpg"
 
 },{
    "id":"2",
@@ -17,7 +17,7 @@
     "Tipo":"Comic",
     "Autor":"Bob Kane",
     "Dibujantes":"Bob Kane, Bill Finger",
-    "Imagen":"../Imagenes/Colecciones/SuperHijosVol1.jpg"
+    "Imagen":"../../img/img_dc/1.jpg"
 },{
    "id":"3",
     "Titulos":"Flash",
@@ -25,7 +25,7 @@
     "Tipo":"Comic",
     "Autor":"Gardner Fox y Harry Lampert",
     "Dibujantes":"Gardner Fox y Harry Lampert",
-    "Imagen":"../Imagenes/Colecciones/SuperHijosVol1.jpg"
+    "Imagen":"../../img/img_dc/2.jpg"
 },{
    "id":"4",
     "Titulos":"Green Lantern",
@@ -33,7 +33,7 @@
     "Tipo":"Comic",
     "Autor":"Gardner Fox y Harry Lampert",
     "Dibujantes":"Gardner Fox y Harry Lampert",
-    "Imagen":"../Imagenes/Colecciones/SuperHijosVol1.jpg"
+    "Imagen":"../../img/img_dc/3.jpg"
 },{
    "id":"5",
     "Titulos":"Injustice: Año cero",
@@ -41,7 +41,7 @@
     "Tipo":"Comic",
     "Autor":"Gardner Fox y Harry Lampert",
     "Dibujantes":"Gardner Fox y Harry Lampert",
-    "Imagen":"../Imagenes/Colecciones/SuperHijosVol1.jpg"
+    "Imagen":"../../img/img_dc/4.jpg"
 },{
    "id":"6",
     "Titulos":"¡Shazam!",
@@ -49,7 +49,7 @@
     "Tipo":"Comic",
     "Autor":"Gardner Fox y Harry Lampert",
     "Dibujantes":"Gardner Fox y Harry Lampert",
-    "Imagen":"../Imagenes/Colecciones/SuperHijosVol1.jpg"
+    "Imagen":"../../img/img_dc/5.jpg"
 },{
    "id":"7",
     "Titulos":"Superman",
@@ -57,7 +57,7 @@
     "Tipo":"Comic",
     "Autor":"Gardner Fox y Harry Lampert",
     "Dibujantes":"Gardner Fox y Harry Lampert",
-    "Imagen":"../Imagenes/Colecciones/SuperHijosVol1.jpg"
+    "Imagen":"../../img/img_dc/6.jpg"
 },{
    "id":"8",
     "Titulos":"Wonder Woman",
@@ -65,7 +65,7 @@
     "Tipo":"Comic",
     "Autor":"Gardner Fox y Harry Lampert",
     "Dibujantes":"Gardner Fox y Harry Lampert",
-    "Imagen":"../Imagenes/Colecciones/SuperHijosVol1.jpg"
+    "Imagen":"../../img/img_dc/7.png"
 },{
    "id":"9",
     "Titulos":"Constantine",
@@ -73,7 +73,7 @@
     "Tipo":"Comic",
     "Autor":"Gardner Fox y Harry Lampert",
     "Dibujantes":"Gardner Fox y Harry Lampert",
-    "Imagen":"../Imagenes/Colecciones/SuperHijosVol1.jpg"
+    "Imagen":"../../img/img_dc/8.jpg"
 }
 
 ]
